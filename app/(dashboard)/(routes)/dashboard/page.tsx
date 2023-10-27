@@ -11,7 +11,10 @@ import { tools } from "@/constants";
 export default function HomePage() {
   const router = useRouter();
 
-  return (
+  return (    <div style={{
+    background: 'radial-gradient(at center, #ebf2eb,white)',
+  }}>
+    
     <div>
       <div className="mb-8 space-y-4">
         <h2 className="text-2xl md:text-4xl font-bold text-center">
@@ -36,6 +39,7 @@ export default function HomePage() {
           </Card>
         ))}
       </div>
+    </div>
     </div>
   );
 }
