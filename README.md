@@ -8,7 +8,7 @@
 ![done (4)](https://github.com/ChandraPrakash24/dev-tool/assets/107044253/23896a37-fb0e-469b-9731-697520e9db22)
 ![done (3)](https://github.com/ChandraPrakash24/dev-tool/assets/107044253/f6e5bb70-76b7-4b1b-8a2f-c6af72648410)
 ![done (1)](https://github.com/ChandraPrakash24/dev-tool/assets/107044253/5c10999d-3bf0-4e4b-887e-0d622ba41680)
-![Screenshot (192)](https://github.com/ChandraPrakash24/dev-tool/assets/107044253/310204e9-637b-4d10-bf29-99dda8b7f86d)
+![Screenshot (191)](https://github.com/ChandraPrakash24/dev-tool/assets/107044253/8ac26d77-b259-4d87-8507-eb83f96d38bb)
 
 
 
