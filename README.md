@@ -1,12 +1,12 @@
 # A Text-to-Anything AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe
+
+
+![done (1)](https://github.com/ChandraPrakash24/dev-tool/assets/107044253/b43438af-9559-4aa1-b217-5168ec35efcb)
+![done (2)](https://github.com/ChandraPrakash24/dev-tool/assets/107044253/c7229ced-bd1c-418c-a93b-0efd69bf2874)
 ![done (5)](https://github.com/ChandraPrakash24/dev-tool/assets/107044253/6852ff2c-b53a-411a-b657-17e2b424b047)![done (7)](https://github.com/ChandraPrakash24/dev-tool/assets/107044253/81acc860-dc85-4651-a5b0-4167c4a64a09)
 ![done (6)](https://github.com/ChandraPrakash24/dev-tool/assets/107044253/c849e19c-b1e7-4a25-aa2d-4c02dbc5aa2a)
-
-
 ![done (4)](https://github.com/ChandraPrakash24/dev-tool/assets/107044253/23896a37-fb0e-469b-9731-697520e9db22)
 ![done (3)](https://github.com/ChandraPrakash24/dev-tool/assets/107044253/f6e5bb70-76b7-4b1b-8a2f-c6af72648410)
-![done (2)](https://github.com/ChandraPrakash24/dev-tool/assets/107044253/c7229ced-bd1c-418c-a93b-0efd69bf2874)
-![done (1)](https://github.com/ChandraPrakash24/dev-tool/assets/107044253/b43438af-9559-4aa1-b217-5168ec35efcb)
 ![done (1)](https://github.com/ChandraPrakash24/dev-tool/assets/107044253/5c10999d-3bf0-4e4b-887e-0d622ba41680)
 ![Screenshot (192)](https://github.com/ChandraPrakash24/dev-tool/assets/107044253/310204e9-637b-4d10-bf29-99dda8b7f86d)
 
