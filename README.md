@@ -44,7 +44,12 @@ Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com//next13-ai-saas.git
+git clone https://github.com/ChandraPrakash24/dev-tool.git
+```
+### Go to Directory
+
+```shell
+cd dev-tool
 ```
 
 ### Install packages
