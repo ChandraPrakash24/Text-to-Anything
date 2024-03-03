@@ -3,9 +3,11 @@
 import { useEffect } from "react";
 import { Crisp } from "crisp-sdk-web";
 
+let crispKey = process.env.NEXT_PUBLIC_CRISP_PUBLISHABLE_KEY;
+
 export const CrispChat = () => {
-  useEffect(() => {
-    Crisp.configure("8056f458-3f77-4fde-bf42-43bfbfc797b3");
+  useEffect(() => {    
+    Crisp.configure( crispKey as string);
   }, []);
 
   return null;
